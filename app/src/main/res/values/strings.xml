@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">LV 1</string>
+    <string name="app_name">Famous Scientists</string>
+    <string name="item">TOP 3</string>
+    <string name="buttonOneText">INSPIRATION</string>
+    <string name="buttonTwoText">EDIT DESCRIPTION</string>
+    <string name="errorRadioButton">Select athlete.</string>
+    <string name="radioButtonOneText">First person</string>
+    <string name="radioButtonTwoText">Second person</string>
+    <string name="radioButtonThreeText">Third person</string>
+    <string name="editTextViewHint">Enter new description</string>
+    <string name="first_athlete_name">Zlatan Ibrahimović</string>
+    <string name="first_athlete_born_died">1981.-</string>
+    <string name="first_athlete_description">Swedish professional footballer who plays as a striker for Serie A club A.C. Milan.</string>
+    <string name="first_athlete_inspiration">\'s bicycle kick goal for Sweden against England won the 2013 FIFA Puskás Award.</string>
+    <string name="second_athlete_name">Jamie Vardy</string>
+    <string name="second_athlete_born_died">1987.-</string>
+    <string name="second_athlete_description">English professional footballer who plays as a striker for Premier League club Leicester City and the England national team.</string>
+    <string name="second_athlete_inspiration"> scored 31 league goals in his first season at Leicester.</string>
+    <string name="third_athlete_name">Dado Pršo</string>
+    <string name="third_athlete_born_died">1974.-</string>
+    <string name="third_athlete_description">Croatian former professional footballer who played as a forward.</string>
+    <string name="third_athlete_inspiration"> was part of the Monaco team that reached the 2004 UEFA Champions League Final.</string>
+
 </resources>
